@@ -19,7 +19,7 @@ I bring a calm, methodical, and analytical approach to problem-solving, with str
 
 - **Ethical Hacking & Vulnerability Assessment Projects** 
   Conducted vulnerability assessments against Windows and Linux systems using tools such as Nmap, Metasploit, and Nessus. Analysed findings using CVSS scoring and produced structured reports outlining risk, impact, and mitigation aligned with best practices (NIST, CIS).
-  📥 [Download Ethical Hacking Report (PDF)](reports/Ethical_Hacking_Report.pdf)
+  📥 [Download Ethical Hacking Report (PDF)](projects/ethical-hacking/Reports/Ethical Hacking Project.pdf)
 
 - **Digital Forensics & Incident Response Labs**  
   Performed forensic investigations using Autopsy, FTK Imager, and Registry Viewer to analyse compromised systems, recover artefacts, and support incident response scenarios.
