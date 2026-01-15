@@ -65,12 +65,13 @@ I bring a calm, methodical, and analytical approach to problem-solving, with str
 
 ## 🌐 Professional Links
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yaw-osei-ahenkro) *(Yaw Osei Ahenkro)*  
-- 📄 [CV / Resume](#) *(upload to this repository or link externally)*  
+- 📄 [CV / Resume](docs/Yaw_Osei_Ahenkro_CV.pdf) *(Download my CV)*  
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?ahenkroyawosei=ahenkroyawosei&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?ahenkroyawosei=ahenkroyawosei&layout=compact)
 
 ---
 
