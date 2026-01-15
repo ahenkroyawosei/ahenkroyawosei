@@ -76,7 +76,7 @@ I bring a calm, methodical, and analytical approach to problem-solving, with str
 ---
 
 ## ✨ Personal Note
-I am motivated by roles where security, reliability, and continuous improvement matter. I enjoy working in environments that value learning, collaboration, and doing things properly — especially where technology supports critical services and people depend on systems working securely.
+I am motivated by roles where security, reliability, and continuous improvement matter. I enjoy working in environments that value learning, collaboration, and doing things properly, especially where technology supports critical services and people depend on systems working securely.
 
 
 
