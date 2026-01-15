@@ -18,7 +18,7 @@ I bring a calm, methodical, and analytical approach to problem-solving, with str
   Designed and implemented a network forensics framework to detect and analyse IoT-based botnet and DDoS activity. This involved packet capture and inspection, traffic profiling, log analysis, and attack pattern identification using industry tools and structured methodologies.
 
 - **Ethical Hacking & Vulnerability Assessment Projects** 
-  Conducted vulnerability assessments against Windows and Linux systems using tools such as Nmap, Metasploit, Burp Suite, and Nessus. Analysed findings using CVSS scoring and produced structured reports outlining risk, impact, and mitigation aligned with best practices (NIST, CIS).
+  Conducted vulnerability assessments against Windows and Linux systems using tools such as Nmap, Metasploit, and Nessus. Analysed findings using CVSS scoring and produced structured reports outlining risk, impact, and mitigation aligned with best practices (NIST, CIS).
 
 - **Digital Forensics & Incident Response Labs**  
   Performed forensic investigations using Autopsy, FTK Imager, and Registry Viewer to analyse compromised systems, recover artefacts, and support incident response scenarios.
